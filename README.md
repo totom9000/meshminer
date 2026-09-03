@@ -5,6 +5,8 @@ NVIDIA GPU, your CPU, or both. Point it at any pool.
 
 ## Download
 
+From the [**Releases**](https://github.com/totom9000/meshminer/releases) page:
+
 | Platform | File |
 |----------|------|
 | Windows 10 / 11 | `meshminer-win.zip` |
